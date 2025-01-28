@@ -1,4 +1,4 @@
-# Avaliação da Qualidade de Informação sobre Uso de Medicamentos com Ferramentas de IA
+# Guia para avaliação da qualidade das informação sobre uso de medicamentos geradas com ferramentas de IA
 
 Este repositório contém um guia prático para avaliar a qualidade das informações obtidas em ferramentas de Inteligência Artificial, com foco no uso de medicamentos. Ele inclui conceitos básicos sobre IA, técnicas de busca eficiente e instruções para explorar as capacidades dessas ferramentas.
 
